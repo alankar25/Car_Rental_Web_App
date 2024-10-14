@@ -19,7 +19,7 @@ git clone https://github.com/alankar25/Car_Rental_Web_App
 2. Install dependencies for both the server and client:
 
 ```bash
-cd CarRental
+cd Car-Rental-Main
 npm install
 cd client
 npm install
